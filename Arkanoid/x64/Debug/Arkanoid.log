@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\бгуир ------------------\1 семестр\оаип\курсовая\arkanoid\arkanoid\main.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\бгуир ------------------\1 семестр\оаип\курсовая\arkanoid\arkanoid\main.cpp(28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\бгуир ------------------\1 семестр\оаип\курсовая\arkanoid\arkanoid\main.cpp(64): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Arkanoid.vcxproj -> D:\БГУИР ------------------\1 семестр\ОАиП\Курсовая\Arkanoid\x64\Debug\Arkanoid.exe
+  Arkanoid.vcxproj -> D:\БГУИР ------------------\1 семестр\ОАиП\Курсовая\Arkanoid\x64\Debug\Arkanoid.pdb (Partial PDB)
